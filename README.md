@@ -10,16 +10,16 @@
 Hi, I'm Kartheek.
 
 <details>
-<summary>My top languages</summary>
+<summary>My Tech Stack</summary>
 
-| Rank | Languages and Libraries|
-|-----:|-----------|
-|     1| Html & Css |
-|     2| JavaScript |
-|     3| React JS |
-|     4| SQL |
-|     5| Python |
-|     6| Node JS|
+| Frontend | Databases | Backend | Developer Tools|
+|--------:|----------:| --------| --------|
+|Html & Css| SQLite  | Python | Command Line |
+|JavaScript| Mongo DB| Node.js| Git & GitHub|
+|React JS|  | Express| | 
+
+
+
 
 
 
