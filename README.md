@@ -1,5 +1,6 @@
 ## Hi there 👋
-(https://raw.githubusercontent.com/kartheeksharma/kartheeksharma/main/"C:\Users\karth\OneDrive\Pictures\readme_video.mp4")
+![Eye_of_Tiger](https://github.com/user-attachments/assets/043dddff-b66d-4d9d-97ea-2689b5ef3a29)
+
 
 
 ## About me
