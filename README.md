@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![code_reademe](https://github.com/user-attachments/assets/344717fb-e30f-4e3c-b7e5-9d80b90abf0e)
 
 
