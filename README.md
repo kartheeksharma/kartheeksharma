@@ -1,6 +1,6 @@
 ## Hi there 👋
+![code_reademe](https://github.com/user-attachments/assets/344717fb-e30f-4e3c-b7e5-9d80b90abf0e)
 
-https://github.com/user-attachments/assets/0efe31c2-e398-4e7b-88e7-4ab0724690cd
 
 
 
