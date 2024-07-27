@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Eye_of_Tiger](https://github.com/user-attachments/assets/043dddff-b66d-4d9d-97ea-2689b5ef3a29)
+
+https://github.com/user-attachments/assets/0efe31c2-e398-4e7b-88e7-4ab0724690cd
 
 
 
